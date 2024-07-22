@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aru-bot
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...web dev,java dsa
-- 📫 How to reach me ...instagram: @addy.hubb
+- 👀 I’m interested in ...coding and HR management
+- 📫 How to reach me ...LinkedIn: Arundhati Singh
 - 😄 Pronouns: ...she/her/hers
 - ⚡ Fun fact: ...i'm 19
 
